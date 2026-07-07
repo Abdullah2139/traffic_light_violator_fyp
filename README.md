@@ -830,18 +830,6 @@ Measure:
 
 ---
 
-## Project Team
-
-**Final-Year Project — Department of Computer Systems Engineering, UET Peshawar**
-
-| Role | Name |
-|---|---|
-| Student | Abdullah Khan |
-| Student | Khalil Hussain |
-| Student | Adnan Khan |
-| Supervisor | Dr. Amaad Khalil |
-
----
 
 ## Disclaimer
 
