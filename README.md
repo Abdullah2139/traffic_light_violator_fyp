@@ -553,13 +553,6 @@ fine_amount=500
 
 The model also uses `500` as its default value.
 
-### Time Zone
-
-The current Django setting is:
-
-```python
-TIME_ZONE = "Asia/Karachi"
-```
 
 ### Dashboard Refresh Rate
 
