@@ -558,12 +558,6 @@ The model also uses `500` as its default value.
 The current Django setting is:
 
 ```python
-TIME_ZONE = "Asia/Kolkata"
-```
-
-For a deployment in Pakistan, use:
-
-```python
 TIME_ZONE = "Asia/Karachi"
 ```
 
